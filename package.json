@@ -1,0 +1,10 @@
+{
+  "name": "lox",
+  "version": "1.0.0",
+  "description": "interpreter/lexer",
+  "main": "src/app.js",
+  "type": "module",
+  "keywords": ["interpreter"],
+  "author": "AzureFlow",
+  "license": "MIT"
+}
